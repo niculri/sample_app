@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"news",
+				"news_model"
+			],
+			[
+				"notici",
+				"noticia_tag"
+			],
+			[
+				"side",
+				"sidebar_data"
+			],
+			[
+				"utf",
+				"UTF-8"
+			],
+			[
+				"ra",
+				"rand_array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"query",
+				"query_result"
+			],
+			[
+				"quer",
+				"query_result"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"par",
+				"partition_folder"
+			],
+			[
+				"folder",
+				"folder_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/requests/static_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 902,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spec/requests/user_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gitu",
+				"Git: Gui"
+			],
+			[
+				"diff",
+				"Git: Diff Staged"
+			],
+			[
+				"git dif",
+				"Git: Diff All"
+			],
+			[
+				"git di",
+				"Git: Diff Tool"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git st",
+				"Git: Diff Staged"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git d",
+				"Git: Diff Tool"
+			],
+			[
+				"git",
+				"Git: Diff Staged"
+			],
+			[
+				"git ",
+				"Git: Diff Tool"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"gi dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 272.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/elvenus/.htaccess",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR07.656/Material Aux 8/aux8/application/views/vista1.php",
+		"/C/xampp/htdocs/elvenus/application/config/database.php",
+		"/C/xampp/htdocs/elvenus/application/views/welcome_message.php",
+		"/C/xampp/htdocs/elvenus/application/config/routes.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR10.656/tarea5css/system/application/views/admin_vista.php",
+		"/C/xampp/htdocs/elvenus/application/controllers/welcome.php",
+		"/C/xampp/htdocs/elvenus/application/.htaccess",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR10.656/tarea5css/system/application/config/routes.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR10.656/tarea5css/system/application/controllers/login.php",
+		"/C/xampp/htdocs/elvenus/application/config/config.php",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/spec/requests/user_pages_spec.rb",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/RubyTest/run_ruby_test.py",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widget.sublime-settings",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR09.136/CodeIgniter_2.1.0/index.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR45.544/Material Aux 8/aux8/application/controllers/controlador1.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR45.544/Material Aux 8/aux8/application/views/vista1.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR45.544/Material Aux 8/aux8/application/views/vista2.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR45.544/Material Aux 8/aux8/application/controllers/controlador2.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR45.544/Material Aux 8/aux8/application/models/modelo1.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR10.656/tarea5css/css/estilo.css",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/app/controllers/static_pages_controller.rb",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/app/controllers/application_controller.rb",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/db/test.sqlite3",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR20.432/elvenus.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"load",
+			"index",
+			"rutina1",
+			"run_from_project_root",
+			"wrap_in_cd",
+			"return",
+			"AsyncProcess",
+			"wrap_in_cd",
+			"\" ",
+			"wrap_in_cd",
+			"usuario",
+			"helper",
+			"}\n",
+			"(){\n",
+			"view",
+			"}\n",
+			"(){\n",
+			"view",
+			"login_vista",
+			"fecha",
+			"php",
+			"Modelo1",
+			"result",
+			"		\n		$resultado = $q1->result();\n		\n		//return $resultado;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/requests/static_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/requests/user_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.tests":
+	{
+		"height": 161.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"controla",
+				"aux8/application/controllers/controlador2.php"
+			],
+			[
+				"vist",
+				"aux8/application/views/vista2.php"
+			],
+			[
+				"datab",
+				"elvenus/application/config/database.php"
+			],
+			[
+				"config",
+				"elvenus/application/config/config.php"
+			],
+			[
+				"vista",
+				"aux8/application/views/vista1.php"
+			],
+			[
+				"",
+				"/C/Users/Linkup/AppData/Local/Temp/Rar$DR20.432/elvenus.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}

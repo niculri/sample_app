@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"fl",
+				"flash	flash[…]"
+			],
+			[
+				"moz-box-s",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
 				"user",
 				"user_with_same_email"
 			],
@@ -79,7 +91,7 @@
 			"file": "spec/requests/user_pages_spec.rb",
 			"settings":
 			{
-				"buffer_size": 269,
+				"buffer_size": 1098,
 				"line_ending": "Windows"
 			}
 		},
@@ -87,16 +99,40 @@
 			"file": "spec/models/user_spec.rb",
 			"settings":
 			{
-				"buffer_size": 2847,
+				"buffer_size": 2849,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/controllers/users_controller.rb",
+			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 66,
+				"buffer_size": 1281,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spec/factories.rb",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/environments/test.rb",
+			"settings":
+			{
+				"buffer_size": 1692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environments/production.rb",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -108,10 +144,10 @@
 			}
 		},
 		{
-			"file": "Gemfile",
+			"file": "app/controllers/users_controller.rb",
 			"settings":
 			{
-				"buffer_size": 1245,
+				"buffer_size": 301,
 				"line_ending": "Windows"
 			}
 		},
@@ -119,7 +155,47 @@
 			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 476,
+				"buffer_size": 594,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/delvenus/elvenus/.htaccess",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/users/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/shared/_error_messages.html.erb",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/helpers/users_helper.rb",
+			"settings":
+			{
+				"buffer_size": 309,
 				"line_ending": "Windows"
 			}
 		},
@@ -127,7 +203,7 @@
 			"file": "app/assets/stylesheets/custom.css.scss",
 			"settings":
 			{
-				"buffer_size": 1265,
+				"buffer_size": 2135,
 				"line_ending": "Windows"
 			}
 		}
@@ -135,12 +211,60 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 58.0,
 		"selected_items":
 		[
 			[
+				"packaes user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"packe lis",
+				"Package Control: List Packages"
+			],
+			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"package control lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"rails vie",
+				"Simple Rails Navigator: List views"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rails view",
+				"Simple Rails Navigator: List views"
+			],
+			[
+				"rails",
+				"Simple Rails Navigator: List controllers"
 			],
 			[
 				"git stat",
@@ -203,16 +327,8 @@
 				"Git: Add..."
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
 				"inst",
 				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: List Packages"
 			],
 			[
 				"insta",
@@ -225,10 +341,6 @@
 			[
 				"install ",
 				"Package Control: Install Package"
-			],
-			[
-				"packe",
-				"Preferences: Browse Packages"
 			]
 		],
 		"width": 536.0
@@ -248,6 +360,24 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/delvenus/elvenus/.htaccess",
+		"/C/xampp/htdocs/delvenus/elvenus/application/config/config.php",
+		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR26.128/mediastore_sql",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/Rails Related Files: Nothing found...",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/spec/requests/user_pages_spec.rb",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/Gemfile",
+		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/config/routes.rb",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/ERB Insert and Toggle Commands/README.markdown",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/ERB Insert and Toggle Commands/erb_block.py",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/ERB Insert and Toggle Commands/package-metadata.json",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/SublimeRailsNav/SublimeRailsNav.sublime-settings",
+		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/SublimeRailsNav/Default (Windows).sublime-keymap",
 		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/db/migrate/20120707230424_add_password_digest_to_users.rb",
 		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/db/migrate/20120707224203_add_index_to_users_email.rb",
 		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/db/schema.rb",
@@ -264,7 +394,6 @@
 		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR10.656/tarea5css/system/application/config/routes.php",
 		"/C/Users/Linkup/AppData/Local/Temp/Rar$DR10.656/tarea5css/system/application/controllers/login.php",
 		"/C/xampp/htdocs/elvenus/application/config/config.php",
-		"/C/Users/Linkup/Documents/Aptana Studio 3 Workspace/sample_app/spec/requests/user_pages_spec.rb",
 		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
 		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/RubyTest/run_ruby_test.py",
 		"/C/Users/Linkup/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widget.sublime-settings",
@@ -299,6 +428,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"error",
 			"load",
 			"index",
 			"rutina1",
@@ -340,7 +470,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -376,20 +506,22 @@
 					"file": "spec/requests/user_pages_spec.rb",
 					"settings":
 					{
-						"buffer_size": 269,
+						"buffer_size": 1098,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								269,
-								269
+								604,
+								604
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/User/RSpec.tmLanguage"
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -402,53 +534,50 @@
 					"file": "spec/models/user_spec.rb",
 					"settings":
 					{
-						"buffer_size": 2847,
+						"buffer_size": 2849,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2688,
-								2688
+								259,
+								259
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/User/RSpec.tmLanguage",
-							"tab_size": 4
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 896.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 4,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 3,
-					"file": "app/controllers/users_controller.rb",
+					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 66,
+						"buffer_size": 1281,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								66,
-								66
+								970,
+								970
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -458,6 +587,96 @@
 				},
 				{
 					"buffer": 4,
+					"file": "spec/factories.rb",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/environments/test.rb",
+					"settings":
+					{
+						"buffer_size": 1692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/environments/production.rb",
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 7,
 					"file": "app/models/user.rb",
 					"settings":
 					{
@@ -483,26 +702,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "Gemfile",
+					"buffer": 8,
+					"file": "app/controllers/users_controller.rb",
 					"settings":
 					{
-						"buffer_size": 1245,
+						"buffer_size": 301,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								240,
+								240
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -511,19 +730,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 9,
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 476,
+						"buffer_size": 594,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								445,
-								445
+								594,
+								594
 							]
 						],
 						"settings":
@@ -539,24 +758,189 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "app/assets/stylesheets/custom.css.scss",
+					"buffer": 10,
+					"file": "/C/xampp/htdocs/delvenus/elvenus/.htaccess",
 					"settings":
 					{
-						"buffer_size": 1265,
+						"buffer_size": 117,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								160,
-								160
+								117,
+								117
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/views/users/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/views/users/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/views/shared/_error_messages.html.erb",
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/helpers/users_helper.rb",
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/assets/stylesheets/custom.css.scss",
+					"settings":
+					{
+						"buffer_size": 2135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2126,
+								2131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1708.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/environments/production.rb",
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -625,6 +1009,38 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"users",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"userspec",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
 			[
 				"user_sp",
 				"spec/models/user_spec.rb"
